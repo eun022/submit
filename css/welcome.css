@@ -47,11 +47,7 @@ html {
 }
 .nav li a:hover { color:#DE0212; } 
 
-.content div:first-child {
-    /* width: calc(100vw - (100vw - 100%));
-    height : 100vh; */
-    background-image: url("https://jaram.net/img/background.jpg");
+.main
+{
     filter: brightness(50%);
-    background-size: cover;
-    background-position: center;
 }
